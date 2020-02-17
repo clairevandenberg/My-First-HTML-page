@@ -1,4 +1,4 @@
 # Homework-week1-claire
 
-Test here [here](Claire_Vandenberg_Homework_Week1.html)
+Test here [here](https://clairevandeneberg.github.io/Homework-week1-claire/)
 
